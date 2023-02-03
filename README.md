@@ -1,5 +1,7 @@
 # CEH
 
+![](https://binuscenter.com/wp-content/uploads/2019/11/CEH-logo.jpg)
+
 ## Topik - topik yang termasuk dalam CEH Practical:
 
 - Network scanning untuk mengidentifikasikan host,port dan service yang aktif pada sebuah network/jaringan.
